@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2B87CF49-2F48-4A9A-B870-DD800E4F64D0}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Mission13__api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission13_api/Controllers/MovieController.cs">
+    <Files>
+      <File FileName="Mission13_api/Data/MovieDbContext.cs" />
+      <File FileName="Mission13_api/appsettings.json" />
+      <File FileName="Mission13_api/Program.cs" />
+      <File FileName="Mission13_api/Data/Movie.cs" />
+      <File FileName="Mission13_api/Controllers/MovieController.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission13_api" expanded="True">
+            <Node name="Mission13_api" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="MovieController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
